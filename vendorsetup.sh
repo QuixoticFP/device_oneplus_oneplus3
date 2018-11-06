@@ -1,1 +1,1 @@
-add_lunch_combo pixys_oneplus3-userdebug
+add_lunch_combo bootleg_oneplus3-userdebug
