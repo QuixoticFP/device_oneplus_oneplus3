@@ -23,7 +23,7 @@ $(call inherit-product, device/oneplus/oneplus3/device.mk)
 # Inherit some common Fenix Project stuff.
 $(call inherit-product, vendor/pixys/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_oneplus3
+PRODUCT_NAME := pixys_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
